@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "compileCommands": "/home/henrique/dev-tidewise/drivers/orogen/power_base/build/compile_commands.json"
+        },
+        {
+            "name": "Linux",
+            "compileCommands": "/home/henrique/dev-tidewise/drivers/orogen/power_base/build/compile_commands.json"
+        },
+        {
+            "name": "Win32",
+            "compileCommands": "/home/henrique/dev-tidewise/drivers/orogen/power_base/build/compile_commands.json"
+        }
+    ],
+    "version": 3
+}

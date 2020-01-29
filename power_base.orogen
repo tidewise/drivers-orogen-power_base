@@ -1,0 +1,9 @@
+name "power_base"
+
+using_library 'power_base'
+
+import_types_from 'power_base/ACSourceStatus.hpp'
+import_types_from 'power_base/DCSourceStatus.hpp'
+import_types_from 'power_base/ACGeneratorStatus.hpp'
+import_types_from 'power_base/BatteryStatus.hpp'
+type_export_policy :all
