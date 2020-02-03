@@ -1,4 +1,6 @@
-name "power_base"
+name 'power_base'
+
+import_types_from 'base'
 
 using_library 'power_base'
 
